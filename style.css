@@ -1,0 +1,19 @@
+*{
+    font-size: 50px;
+}
+button{
+    font-size: 20px;
+}
+#color{
+    margin: 10px 0;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.white{
+    color: white;
+}
